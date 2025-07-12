@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KuldeepJha5176
-- 👀 I’m interested in web devlopment
+- 👀 I’m interested in web devlopment and devOps
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ranacjha@gnail.com
