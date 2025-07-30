@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ranacjha@gnail.com
 - 😄 Pronouns: Rana 
-- ⚡ Fun fact: .
+- ⚡ Fun fact: like to be bored
 
 <!---
 KuldeepJha5176/KuldeepJha5176 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
