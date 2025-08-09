@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Devops
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ranacjha@gnail.com
-- 😄 Pronouns: kuldeep Jha
+- 😄 Pronouns: kuldeep
 - ⚡ Fun fact: like to be bored
 
 <!---
